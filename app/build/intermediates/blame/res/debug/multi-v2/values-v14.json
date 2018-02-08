@@ -4,14 +4,14 @@
             "outputFile": "C:\\Users\\Alan\\AndroidStudioProjects\\android-alura-2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Alan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\ed62f26277d5a2aa012e620406b27bbd\\res\\values-v14\\values-v14.xml",
+                    "source": "C:\\Users\\Alan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.1.aar\\35b66105ac0a43861f18360bbab84c1b\\res\\values-v14\\values-v14.xml",
                     "from": {
                         "startLines": "4,11,12,13,19,27,28,29,32,33",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "301,818,889,972,1382,2040,2160,2223,2377,2440",
+                        "startOffsets": "239,694,765,848,1258,1854,1974,2037,2191,2254",
                         "endLines": "8,11,12,18,24,27,28,31,32,33",
                         "endColumns": "12,70,82,12,12,119,62,12,62,131",
-                        "endOffsets": "572,884,967,1377,1799,2155,2218,2372,2435,2567"
+                        "endOffsets": "510,760,843,1253,1675,1969,2032,2186,2249,2381"
                     },
                     "to": {
                         "startLines": "2,7,8,9,15,21,22,23,26,27",

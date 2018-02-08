@@ -4,13 +4,13 @@
             "outputFile": "C:\\Users\\Alan\\AndroidStudioProjects\\android-alura-2\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-w720dp-v13\\values-w720dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Alan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\ed62f26277d5a2aa012e620406b27bbd\\res\\values-w720dp\\values-w720dp.xml",
+                    "source": "C:\\Users\\Alan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.1.aar\\35b66105ac0a43861f18360bbab84c1b\\res\\values-w720dp\\values-w720dp.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",
-                        "startOffsets": "293",
+                        "startOffsets": "231",
                         "endColumns": "76",
-                        "endOffsets": "365"
+                        "endOffsets": "303"
                     },
                     "to": {
                         "startLines": "2",
