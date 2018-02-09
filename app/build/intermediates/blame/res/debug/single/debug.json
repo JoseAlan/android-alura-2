@@ -860,6 +860,10 @@
         "source": "C:\\Users\\Alan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.1.aar\\35b66105ac0a43861f18360bbab84c1b\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
+        "merged": "C:\\Users\\Alan\\AndroidStudioProjects\\android-alura-2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fundo_camera.xml.flat",
+        "source": "C:\\Users\\Alan\\AndroidStudioProjects\\android-alura-2\\app\\src\\main\\res\\drawable\\fundo_camera.xml"
+    },
+    {
         "merged": "C:\\Users\\Alan\\AndroidStudioProjects\\android-alura-2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Alan\\AndroidStudioProjects\\android-alura-2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
