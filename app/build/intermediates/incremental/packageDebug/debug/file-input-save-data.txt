@@ -1,17 +1,17 @@
 #Internal package file, do not edit.
-#Thu Feb 08 22:52:23 GMT-03:00 2018
-2.base=C\:\\Users\\Alan\\AndroidStudioProjects\\android-alura-2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
+#Sun Feb 11 22:38:45 GMT-03:00 2018
+2.base=C\:\\Users\\Alan\\AndroidStudioProjects\\android-alura-2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\31
 5.set=DEX
 0.path=classes.dex
 2.baseType=DIRECTORY
-3.base=C\:\\Users\\Alan\\AndroidStudioProjects\\android-alura-2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
+3.base=C\:\\Users\\Alan\\AndroidStudioProjects\\android-alura-2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\34
 2.set=DEX
 1.path=classes.dex
-4.base=C\:\\Users\\Alan\\AndroidStudioProjects\\android-alura-2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+4.base=C\:\\Users\\Alan\\AndroidStudioProjects\\android-alura-2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\33
 count=6
 5.baseType=DIRECTORY
 2.path=classes.dex
-5.base=C\:\\Users\\Alan\\AndroidStudioProjects\\android-alura-2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+5.base=C\:\\Users\\Alan\\AndroidStudioProjects\\android-alura-2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\36
 4.set=DEX
 3.path=classes.dex
 3.baseType=DIRECTORY
@@ -19,9 +19,9 @@ count=6
 4.path=classes.dex
 1.baseType=DIRECTORY
 5.path=classes.dex
-0.base=C\:\\Users\\Alan\\AndroidStudioProjects\\android-alura-2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\17
+0.base=C\:\\Users\\Alan\\AndroidStudioProjects\\android-alura-2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\32
 0.baseType=DIRECTORY
 3.set=DEX
-1.base=C\:\\Users\\Alan\\AndroidStudioProjects\\android-alura-2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+1.base=C\:\\Users\\Alan\\AndroidStudioProjects\\android-alura-2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\35
 4.baseType=DIRECTORY
 0.set=DEX
