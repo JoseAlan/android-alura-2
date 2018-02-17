@@ -20,7 +20,6 @@ public class AlunoConverter {
                 js.object();
                 js.key("nome").value(aluno.getNome());
                 js.key("nota").value(aluno.getNota());
-                js.key("telefone").value(aluno.getTelefone());
                 js.endObject();
             }
             js.endArray().endObject().endArray().endObject();
