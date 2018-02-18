@@ -1,5 +1,7 @@
 package br.com.alura.agenda;
 
+import android.app.Dialog;
+import android.app.ProgressDialog;
 import android.content.Context;
 import android.os.AsyncTask;
 import android.widget.Toast;
@@ -14,15 +16,21 @@ import br.com.alura.agenda.modelo.Aluno;
  * Created by Alan on 18/02/2018.
  */
 
-public class EnviarAlunoTask extends AsyncTask<Object, Object, String> {
+public class EnviarAlunoTask extends AsyncTask<Void, Void, String> {
     private Context context;
+    private ProgressDialog dialog;
 
     public EnviarAlunoTask(Context context) {
         this.context = context;
     }
 
     @Override
-    protected String doInBackground(Object... objects) {
+    protected void onPreExecute() {
+        dialog = ProgressDialog.show(context, "Aguarde", "Enviando Alunos", true, true);
+    }
+
+    @Override
+    protected String doInBackground(Void... params) {
         AlunoDAO dao = new AlunoDAO(context);
         List<Aluno> alunos = dao.buscaAlunos();
         dao.close();
@@ -38,6 +46,7 @@ public class EnviarAlunoTask extends AsyncTask<Object, Object, String> {
 
     @Override
     protected void onPostExecute(String resposta) {
+        dialog.dismiss();
         Toast.makeText(context, resposta, Toast.LENGTH_LONG).show();
     }
 }
